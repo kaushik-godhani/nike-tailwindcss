@@ -1,4 +1,13 @@
-# React + Vite
+# React + TailwindCSS + Vite
+
+This project includes brand website.
+
+Tech Stack:
+- React
+- TailwindCSS
+- Vite
+
+Responsive, Minimal and Beutiful design 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
