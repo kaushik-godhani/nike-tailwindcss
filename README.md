@@ -1,5 +1,7 @@
 # React + TailwindCSS + Vite
 
+## Live Preview: https://nike-tailwindcss-alpha.vercel.app/
+
 This project includes brand website.
 
 Tech Stack:
